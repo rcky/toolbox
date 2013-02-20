@@ -1,0 +1,22 @@
+{
+    "name": "toolbox",
+    "description": "A toolkit for useful php classes and functions for further reuse. The php 5.4 requirement is temporary and has mainly syntactical reasons.",
+    "require": {},
+    "authors": [
+        {
+            "name": "Michael Rüfenacht",
+            "email": "info@rcky.ch",
+            "homepage": "http://www.rcky.ch"
+        }
+    ],
+     "require": {
+        "php": ">=5.4"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-0": {
+            "Rcky": "src/"
+        }
+    }
+}

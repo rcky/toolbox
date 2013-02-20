@@ -1,3 +1,16 @@
-assets/
-protected/runtime/
-themes/classic/views/
+## Mac Stuff:
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+
+## Netbeans:
+nbproject/
+
+## Dependencies:
+vendor
+composer.phar
+
+## Tryout file:
+tryout.php

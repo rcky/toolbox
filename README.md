@@ -1,4 +1,12 @@
 toolbox
 =======
 
-A collection of php code i use to write pretty often (PSR-0 compatible, actually partially tested).
+A collection of useful php code I used to write pretty often. Actually in a really early state!
+
+# Acutally working on:
+  - Tree
+
+# Todo
+  - think about the possibilities of the interface combinations to get an inheritance
+structure that makes sense (interface inheritance limits the advantages of the 
+different interfaces)
